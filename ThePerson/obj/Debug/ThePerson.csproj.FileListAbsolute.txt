@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\bin\Debug\ThePerson.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\bin\Debug\ThePerson.exe
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\bin\Debug\ThePerson.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\bin\Debug\MySql.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\bin\Debug\MySql.Data.xml
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\obj\Debug\ThePerson.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\obj\Debug\ThePerson.CreatePerson.resources
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\obj\Debug\ThePerson.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\obj\Debug\ThePerson.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\obj\Debug\ThePerson.exe
+c:\users\pc\documents\visual studio 2015\Projects\ThePerson\ThePerson\obj\Debug\ThePerson.pdb
